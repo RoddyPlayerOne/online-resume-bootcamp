@@ -1,0 +1,22 @@
+.info {
+    font-weight: bold;
+}
+
+.job_title {
+    font-weight: bold;
+}
+
+.date {
+    color: teal;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 12px;
+}
+
+.resume_categories {
+    text-decoration: underline;
+}
+
+ul li p {
+    text-decoration: unset;
+}
